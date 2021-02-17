@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["xxx", "xyx", "xxx"],
+  "key": {
+    "x": {
+      "tag": "minecraft:logs"
+    },
+    "y": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 4
+  }
+}
